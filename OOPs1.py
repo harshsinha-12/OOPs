@@ -83,3 +83,5 @@ class ATM:
         else:
             print("PIN is incorrect")
         self.menu()
+
+obj = ATM()
